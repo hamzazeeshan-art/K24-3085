@@ -7,7 +7,7 @@
 🎓 Currently studying Software Engineering at FAST
 
 ## Hobbies 🎨
-![image](https://github.com/user-attachments/assets/3c87ee84-8a7d-49f7-8467-fc42e2d0b912)\
+![image](https://github.com/user-attachments/assets/aefee22e-1a9f-47a5-9bda-5608c5f28928)\
 💻 Passionate about programming\
 ⚽ Playing football at a competitive level\
 🎬 Enjoy editing videos
