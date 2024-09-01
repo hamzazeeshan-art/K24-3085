@@ -10,7 +10,7 @@ Passionate about programming\
 Playing at competetive level in Football\
 I love editing videos\
 ## Skills
-![image](https://github.com/user-attachments/assets/8ccc2c46-8ff0-4c0b-8bfa-669596425b0b)
+![image](https://github.com/user-attachments/assets/8ccc2c46-8ff0-4c0b-8bfa-669596425b0b)\
 I have a strong command in Python programming language\
 Good understanding of databases and worked with Microsoft SQL\
 I also know C,C++,Java,JavaScript to some extend\
