@@ -2,8 +2,8 @@
 
 ## Education 🎓
 <img src="https://github.com/user-attachments/assets/411af2f9-248f-400a-90b3-e19ea575ee15" width="200" alt="Education Image"/>\
-📚 Matriculated from Chiniot Islamia Public School\
-🎓 Completed Intermediate at Ddamjee Govt. Science College\
+📚 Matriculation from Chiniot Islamia Public School\
+🎓 Completed Intermediate at Adamjee Govt. Science College\
 🎓 Currently studying Software Engineering at FAST university
 
 ## Hobbies 🎨
