@@ -10,13 +10,13 @@ Passionate about programming\
 Playing at competetive level in Football\
 I love editing videos\
 ## Skills
-![image](https://github.com/user-attachments/assets/8ccc2c46-8ff0-4c0b-8bfa-669596425b0b)\
+![image](https://github.com/user-attachments/assets/1109f19a-eaec-4e8d-bee9-ceb1be4be1d0)\
 I have a strong command in Python programming language\
 Good understanding of databases and worked with Microsoft SQL\
 I also know C,C++,Java,JavaScript to some extend\
 Have a basic understanding in Web-development i.e HTML,CSS,JS\
 ## Dream
-![image](https://github.com/user-attachments/assets/df7d655b-d2ce-43fe-bc73-48ff385382ed)\
+![image](https://github.com/user-attachments/assets/b25a0299-c9cd-424f-9109-9f999d30decd)\
 My dream is to a inovator that has good understanding of his field and contribute towrds its advancement\
 
 
