@@ -1,4 +1,4 @@
-# Hi,I am Hamza Zeeshan 🌟
+# Hamza Zeeshan 🌟
 
 ## Education 🎓
 <img src="https://github.com/user-attachments/assets/411af2f9-248f-400a-90b3-e19ea575ee15" width="200" alt="Education Image"/>\
