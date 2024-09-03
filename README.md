@@ -22,3 +22,7 @@
 ## Dream 🌠
 <img src="https://github.com/user-attachments/assets/b25a0299-c9cd-424f-9109-9f999d30decd" width="200" alt="Dream Image"/>\
 🚀 My dream is to become an innovator with a deep understanding of my field and to contribute towards its advancement
+
+ # PF Lab 3
+ ## Introduction to C language
+ 
