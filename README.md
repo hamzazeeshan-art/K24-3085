@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/411af2f9-248f-400a-90b3-e19ea575ee15" width="200" alt="Education Image"/>\
 📚 Matriculation from Chiniot Islamia Public School\
 🎓 Completed Intermediate at Adamjee Govt. Science College\
-🎓 Currently studying Software Engineering at FAST
+🎓 Currently studying Software Engineering at FAST university
 
 ## Hobbies 🎨
 <img src="https://github.com/user-attachments/assets/aefee22e-1a9f-47a5-9bda-5608c5f28928" width="200" alt="Hobbies Image"/>\
