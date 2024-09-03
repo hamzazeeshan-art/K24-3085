@@ -24,5 +24,5 @@
 🚀 My dream is to become an innovator with a deep understanding of my field and to contribute towards its advancement
 
  # PF Lab 3
- ## Introduction to C language
+ ## Introduction to C language.
  
